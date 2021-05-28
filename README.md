@@ -1,4 +1,4 @@
-# ka-rules-manager
+# ContentManager
 
 ## Project setup
 ```
